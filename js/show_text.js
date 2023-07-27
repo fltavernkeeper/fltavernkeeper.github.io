@@ -284,9 +284,22 @@ onload = function() {
             case 173:
             case 174:
             case 175:
+            case 176:
                 $elem.innerText = "(ꐦ°᷄д°᷅)启动启动，全部启动！";
                 break;
-	    case 180:
+            case 177:
+                $elem.innerText = "启动完成，即将再次启动~ヘ(￣ω￣ヘ) ♪";
+                break;
+            case 178:
+                $elem.innerText = "3";
+                break;
+            case 179:
+                $elem.innerText = "2";
+                break;
+            case 180:
+                $elem.innerText = "1";
+                break;
+	    case 181:
 		click_cnt = 0;
 		break;
             default:
