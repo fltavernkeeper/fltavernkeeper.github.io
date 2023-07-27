@@ -39,7 +39,7 @@ onload = function() {
                 $elem.innerText = "方舟？";
                 break;
             case 12:
-                $elem.innerText = "崩3？";
+                $elem.innerText = "崩三？";
                 break;
             case 14:
                 $elem.innerText = "战双？";
