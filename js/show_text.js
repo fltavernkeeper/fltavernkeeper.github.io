@@ -307,7 +307,9 @@ onload = function() {
                 $elem.innerText = "启动！";
                 break;
         }
-        $elem.style.fontSize = Math.random() * 10 + 8 + "px";
+        $elem.style.fontSize = Math.random() * 40 + 8 + "px";
+        $elem.style.color = "rgb(" + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + ")"
+
         var increase = 0;
         var anim;
         setTimeout(function() {
