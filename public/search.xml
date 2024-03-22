@@ -361,6 +361,388 @@
         <td align="center">下1分钟内，你所有的力量和体质豁免具有优势。</td>
     </tr>
     <tr>
+        <td align="center">20</td>
+        <td align="center">吸风饮露</td>
+        <td align="center">你吐纳环境中的熏风甘露为一口灵气。<br>
+                           你恢复4d4+4点生命值，且24小时内不再需要饮食。</td>
+    </tr>
+    <tr>
+        <td align="center">21</td>
+        <td align="center">曼舞胡旋</td>
+        <td align="center">你的下回合开始前， 你获得进行了回避Dodge的好处。</td>
+    </tr>
+    <tr>
+        <td align="center">22</td>
+        <td align="center">龙象般若</td>
+        <td align="center">你的下个回合结束前，你的力量值变为25，如果你的力量值已经大于或等于此值则不变。</td>
+    </tr>
+    <tr>
+        <td align="center">23</td>
+        <td align="center">三尺气墙</td>
+        <td align="center">你掷感知调整个武艺骰（至少1个），你获得其点数和的临时生命，持续1分钟。</td>
+    </tr>
+    <tr>
+        <td align="center">24</td>
+        <td align="center">气血逆流</td>
+        <td align="center">接下来5d6天内，你难以抑制地咳血或嘴角流血。你也可以随机决定是七窍之一流血。<em>高等复原术Greater Restoration</em>可结束此效应。</td>
+    </tr>
+    <tr>
+        <td align="center">25</td>
+        <td align="center">衣崩衫裂</td>
+        <td align="center">你的动作幅度或肌肉块头超过了衣服的承受限度。<br>
+                           你身穿的无魔法效应的服装被破坏，非手持的携带物品或包裹掉落在原地。</td>
+    </tr>
+    <tr>
+        <td align="center">26</td>
+        <td align="center">先声夺人</td>
+        <td align="center">下1分钟内，你攻击时必须喊出炫酷的招式名称。</td>
+    </tr>
+    <tr>
+        <td align="center">27</td>
+        <td align="center">倒打冲天</td>
+        <td align="center">下1分钟内，你头下脚上倒立行动。</td>
+    </tr>
+    <tr>
+        <td align="center">28</td>
+        <td align="center">华山论剑</td>
+        <td align="center">1d4+1位中立的武僧出现在战场边缘，并在1分钟后消失。<br>
+                           他们通常是被奇怪的气场吸引前来围观，就战斗参与者的表现高下议论一番；<br>
+                           如未发生战斗则尝试从人群的武器装备、身体状态等进行战力讨论。</td>
+    </tr>
+    <tr>
+        <td align="center">29</td>
+        <td align="center">虎鹤双形</td>
+        <td align="center">下1分钟内，你将张开双臂保持为“白鹤亮翅”形，并让每句话结尾都以“喵”结尾。</td>
+    </tr>
+    <tr>
+        <td align="center">30</td>
+        <td align="center">颠倒阴阳</td>
+        <td align="center">你想起了一本欲练此功必先改变的强大秘籍。<br>
+                           下1分钟内，你的性别改变。<br>
+                           如果角色的种族无性别，则投d4决定其表现出：<br>
+                           1-无性别特征，2-双性特征，3-女性特征，4-男性特征。</td>
+    </tr>
+    <tr>
+        <td align="center">31</td>
+        <td align="center">歌震九霄</td>
+        <td align="center">下1分钟内，附近60尺的区域响起难以追溯来源的歌声<em>《难念的经》</em>。<br>
+                           注：这是97版天龙八部电视剧的乔峰出场背景音乐。</td>
+    </tr>
+    <tr>
+        <td align="center">32</td>
+        <td align="center">不老长春</td>
+        <td align="center">掷一次1d4，你变为特定年龄段的外形：1-孩童、2-青年、3-壮年、4-老年。<br>
+                           此效果将在4d4天后消失。<br>
+                           <em>高等复原术Greater Restoration</em>可提前结束此效应。</td>
+    </tr>
+    <tr>
+        <td align="center">33</td>
+        <td align="center">求知心切</td>
+        <td align="center">立刻向最近的人提出一个你近期困惑的问题，如果你觉得他的回答不能解答你的疑惑，下1分钟内你会在你的每个回合开始时发出追问。</td>
+    </tr>
+    <tr>
+        <td align="center">34</td>
+        <td align="center">步步生莲</td>
+        <td align="center">下1分钟内，你在地面或水面移动时，足迹会长出莲花。</td>
+    </tr>
+    <tr>
+        <td align="center">35</td>
+        <td align="center">阿难破戒</td>
+        <td align="center">你周围10尺内的其他人必须通过一次感知豁免，否则在1分钟内对你的恐惧。<br>
+                           被恐惧的生物可以在它的每个回合结束时重复进行这个豁免检定，若成功将结束恐惧效果。</td>
+    </tr>
+    <tr>
+        <td align="center">36</td>
+        <td align="center">竹林大战</td>
+        <td align="center">以你为中心，周围30尺范围长出竹子，该范围是困难地形</td>
+    </tr>
+    <tr>
+        <td align="center">37</td>
+        <td align="center">碧海潮生</td>
+        <td align="center">以你为中心10尺内的所有未耳聋生物都必须进行一次感知豁免。<br>
+                           若豁免失败，该生物受到2个武艺骰的心灵伤害并被震慑至你的下一回合结束；若豁免成功，则只受到一半伤害且不受震慑。</td>
+    </tr>
+    <tr>
+        <td align="center">38</td>
+        <td align="center">河东狮吼</td>
+        <td align="center">你周边10尺内的所有生物受到1点雷鸣伤害并耳聋1d4回合。</td>
+    </tr>
+    <tr>
+        <td align="center">39</td>
+        <td align="center">接引天劫</td>
+        <td align="center">你周边20尺内的所有生物必须进行一次敏捷豁免。<br>
+                           若豁免失败，该生物受到8个武艺骰的雷鸣伤害；若豁免成功，则伤害减半。<br>
+                           注：没错，这就是雷鸣版火球术。</td>
+    </tr>
+    <tr>
+        <td align="center">40</td>
+        <td align="center">心魔妄影</td>
+        <td align="center">你以自身为中心施展<em>催眠图纹Hypnotic Pattern</em>。</td>
+    </tr>
+    <tr>
+        <td align="center">41</td>
+        <td align="center">吸星大法</td>
+        <td align="center">距离你15尺内的所有其他生物受到1个武艺骰的黯蚀伤害，然后你恢复等于受伤生物数量的气。<br>
+                           此效应恢复的气可临时超过上限，但是超过部分会在你的下次短休或长休后消失。</td>
+    </tr>
+    <tr>
+        <td align="center">42</td>
+        <td align="center">破绽百出</td>
+        <td align="center">你的下回合结束前，所有能看到你的生物对你的攻击有优势。</td>
+    </tr>
+    <tr>
+        <td align="center">43</td>
+        <td align="center">心神不宁</td>
+        <td align="center">你的下回合结束前，你的智力、感知、魅力豁免具有劣势。</td>
+    </tr>
+    <tr>
+        <td align="center">44</td>
+        <td align="center">经脉不畅</td>
+        <td align="center">你的下回合结束前，你消耗的气翻倍。<br>
+                           特殊的，如果本效应因消耗气而启动，此次消耗的气不会翻倍。</td>
+    </tr>
+    <tr>
+        <td align="center">45</td>
+        <td align="center">坚如磐石</td>
+        <td align="center">你的下回合开始前，你因皮肤硬化被石化Petrified。<br>
+                           如果你的生命值降至0，则你的石化外壳被打碎，而你恢复原形。</td>
+    </tr>
+    <tr>
+        <td align="center">46</td>
+        <td align="center">胆战心惊</td>
+        <td align="center">你的下回合结束前，你因最近的一个其他生物而陷入恐慌Frightened。</td>
+    </tr>
+    <tr>
+        <td align="center">47</td>
+        <td align="center">疯血入魔</td>
+        <td align="center">你对自身释放<em>敌群环绕Enemies Abound</em>。</td>
+    </tr>
+    <tr>
+        <td align="center">48</td>
+        <td align="center">脚下虚浮</td>
+        <td align="center">你立刻倒地Prone，且下回合结束前你的移动速度降至0。</td>
+    </tr>
+    <tr>
+        <td align="center">49</td>
+        <td align="center">退隐江湖</td>
+        <td align="center">你施展<em>星界投影Astral Projection</em>，并通过星界的传送门到达一个无害位面的风景优美之地，直至你下一回合结束时以同样方法返回原位。<br>
+                           如果此时该空间被占据，则你出现该出附近一个未被占据空间内。</td>
+    </tr>
+    <tr>
+        <td align="center">50</td>
+        <td align="center">触类旁通</td>
+        <td align="center">下1分钟内，你在回合结束时骰1d12获得以下效果。特殊的，如果在此持续时间内重复启动此效应，则改为自选触发1次以下效果。<br>
+                           1）你的下回合结束前，你进入伤害+2的<em>狂暴Rage</em>状态。<br>
+                           2）指定身边60尺内一个能听到你声音的其他生物，该生物获得一个d6的<em>诗人激励Bardic Inspiration</em>。<br>
+                           3）发动一次<em>引导神力：驱散不死生物Channel Divinity: Turn Undead</em>。<br>
+                           4）你变形为棕熊Brown Bear并在你的下个回合结束时解除，连续触发视为解除变形后再次变形。<br>
+                           5）你的下回合结束前，你可以施展<em>不屈Indomitable 1次</em>。<br>
+                           6）你立刻施展一次<em>神圣感知Divine Sense</em>。<br>
+                           7）你指定你附近存在的一类生物，其在你的下回合结束前被视为你的<em>宿敌Favored Enemy</em>，并立即对其进行一次追踪的感知（求生）检定，或进行一次回想关于该宿敌信息的检定。<br>
+                           8）你的下回合结束前，进行的第一次攻击检定带有优势的攻击时，或是第一次攻击的目标生物身边5尺内还有其他与之敌对的未失能生物时，你可以额外造成2d6点<em>偷袭Sneak Attack</em>伤害。<br>
+                           9）你立刻触发1次<em>狂野魔法浪涌Wild Magic Surge</em>。<br>
+                           10）你以1环法术效应施展<em>脆弱诅咒Hex</em>，你无法转移此诅咒。<br>
+                           11）你以3环法术效应施展<em>魔法飞弹Magic Missile</em>。<br>
+                           12）你为60尺内的可见物品立刻完成1次持续时间1分钟的临时<em>物品注法Infuse Item</em>。注法可选范围包括：<em>奥术法器 Enhanced Arcane Focus</em>、<em>增强防御 Enhanced Defense</em>、<em>增强武器 Enhanced Weapon</em>。如果选择的注法需要同调，此物品的持有者可以立刻完成同调作为这个效应的一部分。<br></td>
+    </tr>
+    <tr>
+        <td align="center">51</td>
+        <td align="center">要打十个</td>
+        <td align="center">你的下回合结束前，你的一次攻击可以对所有夹击你的生物分别发动一次徒手攻击。<br>
+                           发动该特性时，你要为每个目标进行独立的攻击检定。</td>
+    </tr>
+    <tr>
+        <td align="center">52</td>
+        <td align="center">龟蛇结阵</td>
+        <td align="center">你的下回合结束前，你或队友在攻击你参与夹击的敌人时可以重骰其中一枚骰子一次。<br>
+                           注：如同精灵之准Eleven Accuracy的效果，如果DM不开夹击优势可以换成命中额外+2。</td>
+    </tr>
+    <tr>
+        <td align="center">53</td>
+        <td align="center">风后奇门</td>
+        <td align="center">你从以下范围指定1种伤害类型——强酸、冷冻、火焰、力场、闪电、黯蚀、毒素、心灵、光耀、雷鸣——你在下1分钟内第一次受到对应伤害时具有其抗性；<br>
+                           同时你还可以选择15尺内可见的1个目标，让其在下1分钟内第一次受到对应伤害时具有其易伤。</td>
+    </tr>
+    <tr>
+        <td align="center">54</td>
+        <td align="center">以血蒙眼</td>
+        <td align="center">你受到1个武艺骰的挥砍伤害（不会使你的生命值降到1以下），然后指定15尺范围内至多等于你失去生命值数量的可见生物，目标进行一次敏捷豁免，失败则进入目盲状态直至其回合开始。</td>
+    </tr>
+    <tr>
+        <td align="center">55</td>
+        <td align="center">缠丝擒拿</td>
+        <td align="center">下1分钟内，你视为拥有擒抱者Grappler专长，并可以用敏捷（体操）替代力量（运动）发起擒抱检定。</td>
+    </tr>
+    <tr>
+        <td align="center">56</td>
+        <td align="center">干坤挪移</td>
+        <td align="center">下1分钟内，你的推撞不再限制体型。<br>
+                           你可以将任意一次徒手攻击替换为推撞。<br>
+                           你可以选择用敏捷（体操）进行推撞的对抗，成功时移动对方位置的距离可额外增加5尺且可以选择让目标的坠落伤害归零。</td>
+    </tr>
+    <tr>
+        <td align="center">57</td>
+        <td align="center">贴身缠斗</td>
+        <td align="center">你的下回合结束前，如果你未失能，所有生物自愿走出你周边5尺范围时必须进行一次敏捷豁免。<br>
+                           如果豁免失败，目标在本回合剩下时间内的移动速度降至0。</td>
+    </tr>
+    <tr>
+        <td align="center">58</td>
+        <td align="center">天魔解体</td>
+        <td align="center">如果你有至少一个生命骰，你消耗至多感知调整值的生命骰（至少1个）进行掷骰，每个骰值大于等于5的生命骰都会让你恢复1点气。</td>
+    </tr>
+    <tr>
+        <td align="center">59</td>
+        <td align="center">刀下留人</td>
+        <td align="center">你指定60尺内的一个未耳聋且能听懂你语言的目标，你以劣势的魅力（说服）或魅力（欺瞒）对抗其感知（洞悉），若你胜出该属性对抗，则你和目标生物都失去下一个回合的动作。<br>
+                           如果你攻击该目标，或者当你对该目标施展法术，又或者当一个你的友方生物对该目标造成伤害或者对其施展伤害性法术时，又或者你在距离该目标超过60尺的位置结束你的回合时，该效应对目标的影响终止。</td>
+    </tr>
+    <tr>
+        <td align="center">60</td>
+        <td align="center">梯云纵跃</td>
+        <td align="center">下1分钟内，你获得等于移动速度的飞行速度</td>
+    </tr>
+    <tr>
+        <td align="center">61</td>
+        <td align="center">穷追猛打</td>
+        <td align="center">你指定1个60尺内的目标，下1分钟内你对其的攻击具有优势，在此期间所有其他人对你的攻击具有优势。<br>
+                           若该目标生命值降到0则此效应提前结束。</td>
+    </tr>
+    <tr>
+        <td align="center">62</td>
+        <td align="center">飞龙探云</td>
+        <td align="center">如果你有至少一只手空着，你立刻指定徒手攻击触及范围内的一个生物进行一次敏捷豁免，豁免失败则对方的1件手持或穿戴物品将被你持握。</td>
+    </tr>
+    <tr>
+        <td align="center">63</td>
+        <td align="center">葵花点穴</td>
+        <td align="center">你选择徒手攻击触及范围内的1个目标进行1次体质豁免，豁免失败则目标在其下个回合结束前的攻击检定和体质豁免检定中承受劣势，且无法释放有姿势成分的法术。</td>
+    </tr>
+    <tr>
+        <td align="center">64</td>
+        <td align="center">擒龙控鹤</td>
+        <td align="center">你指定30尺内的一个可见生物，其被向你拉近至多30尺。<br>
+                           备注：<em>乔峰道：“不错，我确是出你不意，攻你无备。咱们再试几招，我接你的单刀。”一句话甫毕，虚空一抓，一股气流激动地下的单刀，那刀竟然跳了起来，跃入了他手中。乔峰手指一拨，单刀倒转刀柄，便递向风波恶身前。风波恶登时便怔住了，颤声道：“这……这是‘擒龙功’吧？世上居然真的……真的有人会此神奇武功。”</em></td>
+    </tr>
+    <tr>
+        <td align="center">65</td>
+        <td align="center">人仰马翻</td>
+        <td align="center">你选择1件非魔法物品，它可以是你背包中的、周围5尺未被其他人控制的、或你当前手持的。<br>
+                           你立刻将其破坏并扔向10尺内的一点，以该点为中心边长10尺的方形区域视为被滚珠Ball Bearings复盖。</td>
+    </tr>
+    <tr>
+        <td align="center">66</td>
+        <td align="center">白猿献果</td>
+        <td align="center">一个由DM操作的中立白色巨猿Giant Ape出现在战场边缘（120尺以内），其持有1d10+1枚灵气水果（每枚可用一个动作食用后回复1d4生命值，会在24小时后失去恢复生命的效果）。<br>
+                           如果在战斗中，它会在先攻最后的人回合结束后吃1个水果，吃完则离开战场。<br>
+                           非战斗状态下可以尝试通过一个DC15的驯兽检定（如能与动物交流，可用说服检定），成功则白猿会将剩余的水果赠与检定成功者，全员失败则白猿不为所动并离开此地。</td>
+    </tr>
+    <tr>
+        <td align="center">67</td>
+        <td align="center">铁布衫身</td>
+        <td align="center">下1分钟内，你受到的伤害将降低你的感知调整值点（伤害将被降低至少1点，且不会降至0点以下）。</td>
+    </tr>
+    <tr>
+        <td align="center">68</td>
+        <td align="center">金钟罩体</td>
+        <td align="center">下1分钟内，你的AC+2，并且免疫魔法飞弹。</td>
+    </tr>
+    <tr>
+        <td align="center">69</td>
+        <td align="center">经脉通达</td>
+        <td align="center">下1分钟内，你每次消耗的气减少1点（消耗最少减少到至1点）。</td>
+    </tr>
+    <tr>
+        <td align="center">70</td>
+        <td align="center">颠倒浪涛</td>
+        <td align="center">下1分钟内，你获得<em>微醺摇摆Tipsy Sway<\em>。作为这个效应的一部分，你可以取出你携带的1瓶酒并喝下。</\em></em></td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
+        <td align="center">01111</td>
+        <td align="center">11</td>
+        <td align="center">123456</td>
+    </tr>
+    <tr>
         <td align="center">01111</td>
         <td align="center">11</td>
         <td align="center">123456</td>
